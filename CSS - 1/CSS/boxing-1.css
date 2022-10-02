@@ -1,0 +1,110 @@
+
+h1{
+	text-align: center;
+	background-color: #7fffd4;
+	padding:30px;
+	background-image: linear-gradient(to bottom right, white, blue,pink);
+	border-radius: 45px;
+	color: white;
+
+}
+h2{
+	text-align: center;
+	color:black;
+}
+body{
+	background-image: url("image_02.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+div{
+	background-color: #AEE4FF;
+	width: 45%;
+	display: inline-block;
+	height: 350px;
+	border-style: solid;
+	border-width: 1px;
+	padding:10px;
+	margin-top: 50px;
+	text-align: justify;
+	color: black;
+	margin-left: 20px;
+	border-radius: 10px;
+	background-image: linear-gradient(white, lightblue);
+}
+
+
+
+#img01{
+	display: inline-flex;
+	vertical-align: top;
+	width: 45%;
+	height: 350px;
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding:10px;	
+}
+
+footer{
+	display: block;
+	border-style: solid;
+	padding: 15px;
+	text-align: justify;
+	border-radius: 30px;
+	margin-top: 45px;
+	background-image: linear-gradient(to right, lightgrey, grey);
+}
+
+.NavigBar{
+	text-align: center;
+	font-family: normal;
+	background-image: linear-gradient(to right, pink,blue);
+	border-radius: 30px;
+	display: block;
+	margin-left: 240px;
+	margin-right: 240px;
+
+}
+#Home{
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	margin-right: 80px;
+}
+
+#Links{
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	margin-right: 80px;
+}
+
+#Pictures{
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	margin-right: 80px;
+}
+
+
+#Videos{
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	margin-right: 80px;
+}
+
+#Tables{
+	display: inline-block;
+	padding: 10px;
+	color: black;
+	margin-right: 80px;
+}
+
+#Buttons{
+	display: inline-block;
+	padding: 10px;
+	color: black;
+
+}
